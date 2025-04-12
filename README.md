@@ -1,22 +1,41 @@
-💻 Desafios Python - Minha Jornada de Código
-Coleção dos meus exercícios resolvidos em Python, criados enquanto eu mergulhava nos conceitos da linguagem. Cada arquivo aqui representa horas de tentativas, erros e aprendizados - desde os primeiros "Hello World" até programas mais elaborados.
+# 🐍 Exercícios Python — Faculdade
 
-📂 Como Tá Organizado
-🧠 Lógica Básica
-01-condicionais-e-logica/ - Onde tudo começou: programas simples tomando decisões com if/else
+Este repositório reúne exercícios desenvolvidos durante o curso de **Análise e Desenvolvimento de Sistemas** no [Instituto Infnet](https://www.infnet.edu.br/), como parte das atividades avaliativas e práticas da graduação.
 
-🔢 Números & Cálculos
-02-funcoes-e-calculos/ - Funções que transformam números, desde contas simples até fórmulas malucas
+Os códigos foram escritos em **Python**, com foco em lógica de programação, estrutura de decisão, manipulação de texto, funções e interatividade com o usuário.
 
-🎮 Interatividade
-03-interativos-e-jogos/ - Coisas que respondem ao usuário, incluindo uns joguinhos bem simples
+---
 
-✍️ Brincando com Texto
-04-strings-e-texto/ - Programas que cortam, colam e transformam palavras e frases
+## 📁 Organização dos Arquivos
 
-🛠️ Ferramentas Usadas
-Python 3 (óbvio!)
+| Pasta                      | Descrição                                                  |
+|---------------------------|-------------------------------------------------------------|
+| `01-condicionais-e-logica`   | Exercícios com foco em decisões, comparações e validações |
+| `02-funcoes-e-calculos`      | Operações matemáticas e uso de funções                    |
+| `03-interativos-e-jogos`     | Programas com interação, jogos e simulações simples       |
+| `04-strings-e-texto`         | Manipulação de strings, frases e entradas textuais        |
 
-VS Code (com aqueles plugins coloridos)
+---
 
-Muito café ☕ (ingrediente secreto)
+## 📚 Tecnologias Utilizadas
+
+- Linguagem: **Python 3.x**
+- Editor: **VS Code**
+- Plataforma de versionamento: **Git + GitHub**
+
+---
+
+## 🎓 Objetivo
+
+> Reforçar os fundamentos da programação com Python durante a graduação, aplicando conceitos de lógica, condições, repetição e manipulação de dados.
+
+Estes exercícios fazem parte da minha evolução prática na área de desenvolvimento de software, e também servem como portfólio técnico.
+
+---
+
+## 💡 Como rodar os exercícios
+
+Você pode executar qualquer arquivo `.py` com o seguinte comando no terminal:
+
+```bash
+python nome_do_arquivo.py
