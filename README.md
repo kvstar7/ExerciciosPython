@@ -1,4 +1,4 @@
-# 1 Exercícios Python — Faculdade
+# 1 - Exercícios Python — Faculdade
 
 Este repositório reúne exercícios desenvolvidos durante o curso de **Análise e Desenvolvimento de Sistemas** no [Instituto Infnet](https://www.infnet.edu.br/), como parte das atividades avaliativas e práticas da graduação.
 
@@ -6,7 +6,7 @@ Os códigos foram escritos em **Python**, com foco em lógica de programação, 
 
 ---
 
-## 2 Organização dos Arquivos
+## 2 - Organização dos Arquivos
 
 | Pasta                      | Descrição                                                  |
 |---------------------------|-------------------------------------------------------------|
@@ -17,7 +17,7 @@ Os códigos foram escritos em **Python**, com foco em lógica de programação, 
 
 ---
 
-## 3 Tecnologias Utilizadas
+## 3 - Tecnologias Utilizadas
 
 - Linguagem: **Python 3.x**
 - Editor: **VS Code**
@@ -25,7 +25,7 @@ Os códigos foram escritos em **Python**, com foco em lógica de programação, 
 
 ---
 
-## 4 Objetivo
+## 4 - Objetivo
 
 > Reforçar os fundamentos da programação com Python durante a graduação, aplicando conceitos de lógica, condições, repetição e manipulação de dados.
 
